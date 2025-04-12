@@ -1,0 +1,1 @@
+An app for managing potential business contacts. Introduces custom environment objects, tab views, Result type, objectWillChange, image interpolation, context menus, local notifications, and Swift package dependencies.
