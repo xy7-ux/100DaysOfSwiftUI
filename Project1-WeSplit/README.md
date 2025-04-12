@@ -1,0 +1,1 @@
+A bill-splitting app that calculates how to split a bill based on the number of people and the tip percentage you want to leave. Introduces basic SwiftUI elements such as forms, navigation, state modifiers, and binding.
